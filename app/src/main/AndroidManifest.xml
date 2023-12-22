@@ -25,6 +25,9 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+        <activity android:name=".StartGame"></activity>
+        <activity android:name=".GameOver"></activity>
+        
     </application>
 
 </manifest>
