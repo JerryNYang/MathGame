@@ -87,11 +87,7 @@ public class StartGame extends AppCompatActivity {
                 
                 // x button close app
                 finish();
-
-
-
-
-
+                
 
             }
         }.start();
